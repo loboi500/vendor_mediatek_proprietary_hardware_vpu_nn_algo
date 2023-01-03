@@ -1,0 +1,6 @@
+mt6853 filter=lfs diff=lfs merge=lfs -text
+mt6877 filter=lfs diff=lfs merge=lfs -text
+mt6885 filter=lfs diff=lfs merge=lfs -text
+mt6893 filter=lfs diff=lfs merge=lfs -text
+mt6771 filter=lfs diff=lfs merge=lfs -text
+mt6785 filter=lfs diff=lfs merge=lfs -text
